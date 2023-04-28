@@ -9,3 +9,16 @@ git remote add origin https://github.com/sayedgig/github-project.git
  git config --global user.email sayedgig@gmail.com
 
 git push -u origin main
+
+git status
+git add .
+git commit "third update"
+git push
+
+/////////////////////
+
+ceate branch
+git checkout -b dev
+git branch
+    git push --set-upstream origin dev
+    
